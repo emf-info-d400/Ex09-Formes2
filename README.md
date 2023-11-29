@@ -5,6 +5,7 @@ Cet exercice pour les avancés permet de se faire une première idée de ce qu�
 
 ## Travail à réaliser
 Vous allez devoir apporter quelques petites adaptations ici et là à votre projet pour qu’il tire profit de l’héritage. La conséquence directe est que le code dans la boucle de votre main() va fondre et grandement se simplifier :
+
 ```
 package formes;
 public class Formes2 {
