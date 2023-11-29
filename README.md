@@ -33,7 +33,7 @@ public class Formes2 {
         mesFormes[9] = r2;
 
         // Cool, on ne peut plus y mettre de String puisque ce n'est pas une "Forme"
-//        mesFormes[6] = "Coucou je suis une chaîne de caractères";
+        //mesFormes[6] = "Coucou je suis une chaîne de caractères";
 
         // On se promène dans le tableau et, selon avec qui on a à faire, on affiche qui c'est et sa surface
         for ( int i = 0; i < mesFormes.length; i++ ) {
