@@ -1,4 +1,4 @@
-# Exercice 10 : Formes2
+# Exercice 09 : Formes2
 ## durée : 60'
 ## Objectifs visés :
 Cet exercice pour les avancés permet de se faire une première idée de ce qu’est l’héritage en Java. En particulier ce qu’il peut apporter en termes de simplifications au niveau du code à écrire.
