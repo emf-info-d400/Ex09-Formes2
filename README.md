@@ -1,12 +1,12 @@
 # Exercice 09 : Formes2
-## durée : 60'
+## Durée : 60'
 ## Objectifs visés :
 Cet exercice pour les avancés permet de se faire une première idée de ce qu’est l’héritage en Java. En particulier ce qu’il peut apporter en termes de simplifications au niveau du code à écrire.
 
 ## Travail à réaliser
 Vous allez devoir apporter quelques petites adaptations ici et là à votre projet pour qu’il tire profit de l’héritage. La conséquence directe est que le code dans la boucle de votre main() va fondre et grandement se simplifier :
 
-```
+``` java
 package formes;
 public class Formes2 {
     public final static int TAILLE_TABLEAU_OBJETS = 10;
@@ -52,7 +52,7 @@ public class Formes2 {
 
 Pour que le code du `main()` qui vous est cette fois-ci donné puisse fonctionner, on va procéder à quelques modifications. Pour commencer, on va créer une classe Forme. Son code étant affreusement compliqué (tout comme l’héritage Java d’ailleurs), il vous est donné ci-dessous :
 
-```
+``` java
 package formes;
 
 public class Forme {
